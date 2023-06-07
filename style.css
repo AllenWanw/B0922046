@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://2.bp.blogspot.com/-umPNV-fSiBM/WQc46a1OmCI/AAAAAAAACY8/YsrxiSZmm7MNqYEYum9hdaGM10zDcoHvQCLcB/s1600/pexels-photo-169677.jpeg);
+  background-image: url(https://www.taiwan.net.tw/att/1/big_scenic_spots/pic_A12-00004_6.jpg);
   background-color: rgba(0, 0, 0, 0.5);
   background-size: cover;
   background-position: center;
@@ -155,4 +155,24 @@ body {
 }
 .interest-section p {
   font-size: 35px;
+}
+
+button {
+  margin: 50px;
+  width: 200px;  
+  height: 50px; 
+  font-size: 30px;
+}
+
+form {
+  margin: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input, button {
+  margin-bottom: 10px;
 }
